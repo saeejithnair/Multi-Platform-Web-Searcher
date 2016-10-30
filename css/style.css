@@ -1,0 +1,12 @@
+#box1 {
+	background-color: lightgreen;
+	margin-top:20px;
+	width: 500px;
+	height: 500px;
+}
+header {
+    height: 45px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #e1ddd8;
+    background-image: url("background.jpeg");
+}

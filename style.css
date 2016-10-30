@@ -1,0 +1,13 @@
+#box1 {
+	background-color: green;
+	margin-top:20px;
+	width: 150px;
+	height: 250px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#list1, #list2, #list3, #list4, #list5 {
+	text-align: left;
+}
+
